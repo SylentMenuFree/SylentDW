@@ -1,0 +1,25 @@
+{
+  "Header": {
+    "CustomHeaderName": "ObamaGamerTool",
+    "UseCustomHeader": true
+  },
+  "UI": {
+    "EndLine": 0.13650000095367432,
+    "Opacity": 255,
+    "ScreenResulotion": 0,
+    "ScrollSpeed": 0.0040000001899898052,
+    "ScrollbarDistance": 0.10000000149011612,
+    "TextSize": 0.34000000357627869,
+    "UpLine": 0.14049999415874481,
+    "VisualOptions": 14,
+    "XPosition": 0.55416667461395264,
+    "YPosition": 0.22922222316265106
+  }
+}
+
+
+{
+   "Staus" : {
+      "Safe" : true
+   }
+}
