@@ -1,5 +1,6 @@
 {
    "Staus" : {
-      "Safe" : true
+      "Safe" : false
+      "kek" : false
    }
 }
